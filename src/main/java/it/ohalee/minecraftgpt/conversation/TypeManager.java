@@ -4,6 +4,7 @@ import it.ohalee.minecraftgpt.Main;
 import it.ohalee.minecraftgpt.Type;
 import it.ohalee.minecraftgpt.util.Messages;
 import org.bukkit.entity.Player;
+import it.ohalee.minecraftgpt.OpenAI;
 
 public class TypeManager {
 
